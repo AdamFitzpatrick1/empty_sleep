@@ -10,5 +10,5 @@
  <li>Mac OS 10.14 Mojave</li>
  </ol>
  
- *The applicaiton may very well work with all Mac OS versions realesed for intel-based mac's, however proceed with cauation as not all configurations have been tested.*
+ *The applicaiton may very well work with all Mac OS versions released for intel-based mac's, however proceed with cauation as not all configurations have been tested.*
  
