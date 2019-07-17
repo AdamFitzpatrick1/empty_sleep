@@ -10,6 +10,6 @@
  <li>Mac OS 10.14 Mojave</li>
  </ol>
  
- *The applicaiton may very well work with all Mac OS versions released for intel-based macs, however proceed with caution as not all configurations have been tested.*
+ *The application may very well work with all Mac OS versions released for intel-based macs, however proceed with caution as not all configurations have been tested.*
  
 *You may recieve a message stating that the app is from an unidentified developer, in order to fix this, right click the application and select open from the menu.*
