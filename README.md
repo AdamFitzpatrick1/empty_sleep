@@ -1,5 +1,5 @@
  empty_sleep:
- An AppleScript application which sleeps the computer and empties that trash (if any).
+ An AppleScript application which sleeps the computer and empties the trash (if any).
  
  The application is designed to work on the following Mac OS versions:
  <ol>
