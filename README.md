@@ -8,6 +8,7 @@
  <li>Mac OS 10.12 Sierra</li>
  <li>Mac OS 10.13 High Sierra</li>
  <li>Mac OS 10.14 Mojave</li>
+ <li>Mac OS 10.15 Catalina</li>
  </ol>
  
  *The application may very well work with all Mac OS versions released for intel-based macs, however proceed with caution as not all configurations have been tested.*
